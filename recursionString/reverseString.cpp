@@ -6,7 +6,7 @@ void reverseString(string &str, int start, int end)
 {
     if (start >= end)
     {
-        cout << str;
+
         return;
     }
     char c = str[start];
@@ -19,5 +19,6 @@ int main()
 {
     string str = "zaid";
     reverseString(str, 0, 3);
+    cout << str;
     return 0;
 }
