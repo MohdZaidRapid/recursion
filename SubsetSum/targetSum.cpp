@@ -19,7 +19,7 @@ bool find(int arr[], int index, int n, int target)
 int main()
 {
     int arr[] = {3, 6, 4, 5};
-    int target = 12;
-
+    int target = 9;
+    cout << find(arr, 0, 4, target);
     return 0;
 }
