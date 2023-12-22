@@ -21,6 +21,6 @@ int main()
                  3,
                  4};
     int sum = 6;
-    cout << (arr, 0, 3, sum) << endl;
+    cout << SubSum(arr, 0, 3, sum) << endl;
     return 0;
 }
