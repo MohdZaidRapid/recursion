@@ -11,7 +11,7 @@ void func1(int n)
     cout << "hello " << n << endl;
     func1(n - 1);
     cout << endl
-         << "bye " << n;
+         << "bye bye" << n;
 }
 
 int main()
