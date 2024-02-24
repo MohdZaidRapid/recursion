@@ -9,7 +9,7 @@ using namespace std;
 //         return;
 //     }
 //     // cout << arr[index] << endl;
-
+//    cout<< hello;
 //     cout << arr[index] << endl;
 //     printArray(arr, index + 1, n);
 // }
